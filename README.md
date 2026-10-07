@@ -4,4 +4,4 @@ Notes, lessons and hands-on exercises from the Introduction to dbt and Intermedi
 ## Courses
 
 1. [Introduction to dbt](01-Introduction-to-dbt/) — foundations, first project, documentation
-2. Intermediate dbt — *coming soon*
+2. [Intermediate dbt](02-Intermediate-dbt/) — testing, sources, seeds, snapshots and `dbt build`
